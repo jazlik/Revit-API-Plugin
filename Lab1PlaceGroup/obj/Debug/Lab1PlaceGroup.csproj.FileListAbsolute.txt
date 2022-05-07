@@ -1,0 +1,6 @@
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.dll
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.pdb
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.AssemblyReference.cache
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.CoreCompileInputs.cache
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.dll
+D:\programowanie\revit_c#\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb
